@@ -1,0 +1,2 @@
+#replace shebang with this comment
+tree -L 1 $1

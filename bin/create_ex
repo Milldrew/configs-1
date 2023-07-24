@@ -1,0 +1,4 @@
+echo "#""$1" >> ~/bin/"$1" 
+chmod +x ~/bin/"$1"
+nvim ~/bin/"$1"
+

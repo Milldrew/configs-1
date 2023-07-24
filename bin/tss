@@ -1,0 +1,2 @@
+#replace shebang with this comment
+tmux switch-client -t "$1"

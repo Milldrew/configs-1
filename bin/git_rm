@@ -1,0 +1,3 @@
+#replace shebang with this comment
+git rm --cached "$1"
+

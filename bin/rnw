@@ -1,0 +1,3 @@
+#replace shebang with this comment
+tmux rename-window "$1"
+echo 'window renamed: '"$1"
